@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@govuk-react/button": "^0.10.5",
+    "@govuk-react/header": "^0.8.0",
+    "@govuk-react/input": "^0.10.5",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "knex": "^2.4.2",
+    "mysql": "^2.18.1",
+    "react-router-dom": "^6.11.1"
+  }
+}
