@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dr. John",
+        "degree": "MBBS",
+        "appointments": 10
+    },
+    {
+        "name": "Dr. Sunil",
+        "degree": "MBSD",
+        "appointments": 2
+    },
+    {
+        "name": "Dr. Mike",
+        "degree": "MBBS",
+        "appointments": 6
+    },
+    {
+        "name": "Dr. Shawn",
+        "degree": "MBBS",
+        "appointments": 3
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "url": "/doctor"
+    },
+    {
+        "id": 2,
+        "name": "Appointments",
+        "url": "appointments"
+    },
+    {
+        "id": 3,
+        "name": "Patients",
+        "url": "patients"
+    },
+    {
+        "id": 4,
+        "name": "Add Patients",
+        "url": "add-patient"
+    }
+]

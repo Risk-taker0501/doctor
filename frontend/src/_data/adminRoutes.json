@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "url": "/admin"
+    },
+    {
+        "id": 2,
+        "name": "Appointments",
+        "url": "appointments"
+    },
+    {
+        "id": 3,
+        "name": "Doctors",
+        "url": "doctors"
+    }
+]
