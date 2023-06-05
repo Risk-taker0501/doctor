@@ -14,6 +14,7 @@ export default function AdminPanel() {
                 <Header sideBar={() => setIsSidebarOpen(prev => !prev)} />
                 <div className="main-wrapper govuk-width-container">
                     <Outlet />
+                    <Text>Doctors</Text>
                 </div>
             </div>
         </Container>
